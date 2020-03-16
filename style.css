@@ -25,5 +25,12 @@ html {
     height: 100px;
     position: absolute;
     top: 0;
-    left: 40%
+    left: 40%;
+    animation: sunrise 10s;
+
+}
+
+@keyframes sunrise {
+    0% {top: 90%;}
+    100% {top: 0;}
 }
