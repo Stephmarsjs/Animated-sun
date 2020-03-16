@@ -1,0 +1,1 @@
+Creating an animated sun using HTML and CSS
