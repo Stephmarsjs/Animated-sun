@@ -31,6 +31,8 @@ html {
 }
 
 @keyframes sunrise {
-    0% {top: 90%;}
-    100% {top: 0;}
+    0% {top:90%; left:0;}
+    33% {top:0; left:40%;}
+    66% {top:0; left:40%;}
+    100% {top:90%; left:80%;}
 }
